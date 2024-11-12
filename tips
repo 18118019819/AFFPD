@@ -1,0 +1,11 @@
+查看python 进程：ps aux|grep python
+kill: sudo kill -s 9 pid
+
+
+
+
+mamba:
+PyTorch 1.12+
+CUDA 11.6+
+pip install causal-conv1d==1.2.0.post1
+pip install mamba-ssm
